@@ -1,0 +1,25 @@
+.back{
+
+    background-color: rgba(49, 41, 128, 0.63);
+}
+
+
+
+.boutons{
+    width: 100%;
+    padding: 25px;
+
+
+}
+
+.text-gris{
+
+    background-color: rgba(128, 128, 128, 0.34);
+}
+
+.boutton{
+    background-color: rgba(128, 128, 128, 0.4);
+    padding:15px;
+    margin-left: 15px;
+
+}
